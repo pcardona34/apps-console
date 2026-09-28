@@ -1,0 +1,7 @@
+obj/
+Console.app/
+*.d
+*.o
+*.app
+.DS_Store
+build
