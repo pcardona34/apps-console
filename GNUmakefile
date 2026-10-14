@@ -18,7 +18,8 @@ ADDITIONAL_OBJCFLAGS = -Wall
 #
 Console_LANGUAGES = English French
 Console_LOCALIZED_RESOURCE_FILES = \
-Localizable.strings
+Localizable.strings \
+InfoPlist.strings
 
 include $(GNUSTEP_MAKEFILES)/application.make
 
